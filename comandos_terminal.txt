@@ -1,0 +1,13 @@
+para enviar desde aca a github debo realizar un commint
+esto quiere decir que al seguir los tres pasos en el 
+terminal se subiran todas las actualizaciones en el 
+github el cual tambien servira para que render pueda
+hacerse del codigo fuente, compilarlo y ejecutarlo 
+
+git add . 
+
+git commit -m "agrego comantarios que quiera"  
+
+git push origin main
+
+el  ultimo es para que suba toda la actualizacion del codigo}

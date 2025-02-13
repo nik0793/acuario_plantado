@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa;
+    color: #00695c;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .control-panel {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #00796b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #004d40;
+  }
